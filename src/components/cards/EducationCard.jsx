@@ -69,7 +69,6 @@ const Description = styled.div`
     font-size: 12px;
   }
 `;
-const Span = styled.div``;
 
 const EducationCard = ({ education }) => {
   return (
